@@ -17,6 +17,10 @@ $ npm i -g @nestjs/cli
 ```bash
 $ docker-compose up -d
 ```
+5. Rebuild database with seed
+```
+localhost:3000/api/seed
+```
 
 ## Compile and run the project
 
